@@ -1,0 +1,25 @@
+.checkout-section h2{
+    font-weight: 600;
+}
+
+table th{
+    color: #999999;
+    font-size: 18px;
+}
+
+table td{
+    font-size: 18px;
+    font-weight: 500 !important;
+}
+
+.checkout{
+    /* border: 1px solid salmon; */
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 15px;
+}
+.checkout-btn{
+    background-color: #6946F4 !important;
+    color: white !important;
+}

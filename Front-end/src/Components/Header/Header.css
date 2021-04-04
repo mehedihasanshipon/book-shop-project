@@ -1,0 +1,29 @@
+.nav-brand{
+    font-size: 24px !important;
+    font-weight: 600;
+}
+.nav-link{
+    font-size: 18px;
+    margin-top: 15px; 
+     margin-left: 20px;
+    font-weight: 500;
+}
+
+.nav-login{
+    color: white !important;
+    background-color: #6946F4 !important;
+    padding: 10px 30px !important;
+    margin-top: -2px;
+}
+.nav-toggle{
+    color: black;
+}
+.nav-link img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.book-logo{
+    height: 30px !important;
+    width: 40px !important;
+}

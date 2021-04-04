@@ -1,0 +1,16 @@
+.input-section{
+    background-color: #F4F7FC !important;
+    height: 100vh;
+    margin-left: -10px !important;
+}
+.book-info{
+    width: 60%;
+    margin-top: 50px;
+    height: auto;
+    background-color: white !important;
+    border-radius: 10px;
+}
+.form-section{
+    margin: auto;
+    width: 60%;
+}

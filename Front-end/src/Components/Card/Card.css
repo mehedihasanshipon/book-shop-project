@@ -1,0 +1,26 @@
+.card img{
+    height: 250px !important;
+}
+
+.card-custom{
+    border:none !important;
+    box-shadow: 4px 4px 10px gray;
+    padding: 20px;
+    border-radius: 15px !important;
+}
+.image-div{
+    /* border: 1px solid salmon; */
+    border-radius: 15px;
+    padding: 25px;
+    background-color: #F1F1F1 !important;
+}
+.buy-button{
+    background-color: #6946F4 !important;
+    padding: 10px 30px !important;
+    color: white !important;
+    border-radius:  10px !important;
+}
+.card-body h2{
+    color: #6946F4;
+    font-weight: 600;
+}
